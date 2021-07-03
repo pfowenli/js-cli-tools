@@ -1,0 +1,22 @@
+{
+  "name": "js-cli-tools",
+  "version": "1.0.0",
+  "description": "JavaScript CLI Tools",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pfowenli/js-cli-tools.git"
+  },
+  "author": "pfowenli",
+  "license": "MIT",
+  "bin": {
+    "hello-world": "./bin/index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/pfowenli/js-cli-tools/issues"
+  },
+  "homepage": "https://github.com/pfowenli/js-cli-tools#readme"
+}
